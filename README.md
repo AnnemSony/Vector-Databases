@@ -18,8 +18,4 @@ This repository provides a basic setup for working with vector databases such as
 ## Installation
 
 First, clone the repository and install the required packages:
-
-```bash
-git clone https://github.com/yourusername/vector-database-setup.git
-cd vector-database-setup
-pip install -r requirements.txt
+Each file here is used to create related vector database.
