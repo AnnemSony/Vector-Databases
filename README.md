@@ -18,4 +18,5 @@ This repository provides a basic setup for working with vector databases such as
 ## Installation
 
 First, clone the repository and install the required packages:
-Each file here is used to create related vector database.
+Each file here is used to create related vector databases.
+
